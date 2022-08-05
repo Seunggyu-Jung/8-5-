@@ -10,4 +10,5 @@
 -1-1. 
 ```<a href="http://a.com/'+coworkers[i]+'"> </a>``` : coworkers라는 변수의 리스트들에 링크를 걸어주는법
        ```-<a href= "링크 주소'+변수 리스트+'"></a>```
+       
 -1-2. 변수의 갯수만큼 숫자를 출력하는 방법: coworkers.length
